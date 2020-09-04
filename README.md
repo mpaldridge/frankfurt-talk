@@ -1,6 +1,6 @@
 # Inference problems in the linear regime: lessons from group testing
 
-This is a talk I gave at the [Workshop on Inference problems: algorithms and lower bounds](https://www.uni-frankfurt.de/84973818/Inference_problems__algorithms_and_lower_bounds), held online from 31 August – 4 September 2020, and hosted by Goethe University Frankfurt.
+This page contains the slides for a talk I gave at the [Workshop on inference problems: algorithms and lower bounds](https://www.uni-frankfurt.de/84973818/Inference_problems__algorithms_and_lower_bounds), held online from 31 August to 4 September 2020, and hosted by Goethe University Frankfurt.
 
 ## Abstract
 
